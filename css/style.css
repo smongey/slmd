@@ -4,7 +4,7 @@
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 body, p, a, h1, nav { margin: 0; padding: 0; text-decoration: none; color:#FF664B; }
 
-body { font:17px/22px Times, Georgia, serif; -webkit-font-smoothing: antialiased; }
+body { font:17px/22px "Greta Text Light", Times, Georgia, serif; -webkit-font-smoothing: antialiased; }
 
 #page { width:1170px; margin: 0 auto; padding: 0 10px; }
 nav { width: 1170px; margin: 60px auto 80px; }
